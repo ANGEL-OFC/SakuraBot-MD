@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/AngelPeruFachero/SakuraBot-MD",
+"homepage": "https://github.com/ANGEL-OFC/SakuraBot-MD",
 "author": {
 "name": "AngelPeruFachero" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/AngelPeruFachero/SakuraBot-MD.git" },
+"url": "git+https://github.com/ANGEL-OFC/SakuraBot-MD.git" },
 
 "bugs": {
-"url": "https://github.com/AngelPeruFachero/SakuraBot-MD/issues" },
+"url": "https://github.com/ANGEL-OFC/SakuraBot-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@^8.6.8",
